@@ -21,8 +21,12 @@ body {
   margin: 0;
 }
 
-.grid {
+.navdiv {
   background-color: #e2e2e2;
+}
+
+nav {
+  text-align: center;
 }
 
 li {
@@ -38,4 +42,8 @@ a {
 a:hover {
   background-color: #0074d9;
   color: #fff;
+}
+
+h1 {
+  text-align: left;
 }
